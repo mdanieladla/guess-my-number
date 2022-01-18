@@ -16,7 +16,7 @@ Vanilla JavaScript guess my number game.
 
 ### Screenshot
 
-![](./images/screenshot.PNG)
+![](./screenshot.PNG)
 
 ### Links
 
